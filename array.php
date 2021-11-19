@@ -52,7 +52,7 @@
                     }
                 }
                 // membuat perbandingan untuk tombol
-                if ($dataProduk[$i][4]==="Stok : Tersedia") {
+                if ($dataProduk[$i][3]==="Stok : Tersedia") {
                     ?>
                     <button class="btn btn-primary mb-2">Order </button>
                     <?php
